@@ -17,7 +17,7 @@ namespace ADSPortEx1
 
     class Guest : IComparable
     {
-
+       
         public Guest(string name, double funds)
         {
             throw new NotImplementedException();
